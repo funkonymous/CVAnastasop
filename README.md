@@ -1,2 +1,2 @@
-# funkonymous.github.io
+# https://funkonymous.github.io/CVAnastasop/
 My CV
